@@ -221,7 +221,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/create.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/create.zip"
               },
               "FunctionName": "notes-app-2-api-dev-create",
               "Handler": "create.main",
@@ -265,7 +265,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/get.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/get.zip"
               },
               "FunctionName": "notes-app-2-api-dev-get",
               "Handler": "get.main",
@@ -309,7 +309,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/list.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/list.zip"
               },
               "FunctionName": "notes-app-2-api-dev-list",
               "Handler": "list.main",
@@ -353,7 +353,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/update.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/update.zip"
               },
               "FunctionName": "notes-app-2-api-dev-update",
               "Handler": "update.main",
@@ -397,7 +397,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/delete.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/delete.zip"
               },
               "FunctionName": "notes-app-2-api-dev-delete",
               "Handler": "delete.main",
@@ -441,7 +441,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z/billing.zip"
+                "S3Key": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z/billing.zip"
               },
               "FunctionName": "notes-app-2-api-dev-billing",
               "Handler": "billing.main",
@@ -925,7 +925,7 @@
               "MethodResponses": []
             }
           },
-          "ApiGatewayDeployment1600924977049": {
+          "ApiGatewayDeployment1601002337462": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -2416,7 +2416,7 @@
       ],
       "package": {
         "individually": true,
-        "artifactDirectoryName": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z"
+        "artifactDirectoryName": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z"
       },
       "plugins": {
         "$ref": "$[\"service\"][\"plugins\"]"
@@ -2464,7 +2464,7 @@
   },
   "package": {
     "individually": true,
-    "artifactDirectoryName": "serverless/notes-app-2-api/dev/1600924985426-2020-09-24T05:23:05.426Z",
+    "artifactDirectoryName": "serverless/notes-app-2-api/dev/1601002344980-2020-09-25T02:52:24.980Z",
     "artifact": ""
   }
 }
